@@ -2,7 +2,7 @@
 Shrimp Game - Spawn Section
 ===
 
-.scn:
+spawn-section.scn:
 
 ```
 {
